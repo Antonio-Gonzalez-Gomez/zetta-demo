@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "zetta": "^1.6.0",
+    "zetta-led-mock-driver": "^0.10.0"
+  }
+}
