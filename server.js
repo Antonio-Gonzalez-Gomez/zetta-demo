@@ -9,5 +9,5 @@ zetta()
   .use(duskToDawnLight)
   .link('https://zetta-demo.onrender.com')
   .listen(1337, function(){
-     console.log('Zetta is running at http://127.0.0.1:1337');
+     console.log('Zetta is running at https://zetta-demo.onrender.com');
 });
